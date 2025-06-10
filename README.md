@@ -15,7 +15,7 @@ Purchasing Behavior: Amount spent on various product categories (e.g., wine, fru
 Marketing Interaction: Number of purchases made with a discount, and responses to five different marketing campaigns.
 
 ## Data Preprocessing
-### Handling Missing Values: Addressed missing data through appropriate imputation or removal strategies.
+Handling Missing Values: Addressed missing data through appropriate imputation or removal strategies.
 
 Feature Engineering: Created new features such as 'Days_As_Customer' to represent the duration of customer relationships.
 
@@ -33,33 +33,33 @@ Visualization: Utilized histograms, box plots, and scatter plots to visualize di
 ## Clustering Techniques
 The following clustering algorithms were applied to segment customers:
 
-K-Means Clustering:
+### K-Means Clustering:
 
 Utilized the Elbow Method and Silhouette Score to determine the optimal number of clusters.
 
 Grouped customers into clusters based on purchasing behavior and demographics.
 
-K-Medoids (Partitioning Around Medoids):
+### K-Medoids (Partitioning Around Medoids):
 
 Employed for its robustness to noise and outliers, providing alternative cluster centers.
 
-Agglomerative Hierarchical Clustering:
+### Agglomerative Hierarchical Clustering:
 
 Built a hierarchy of clusters using a bottom-up approach, visualized through dendrograms.
 
-BIRCH (Balanced Iterative Reducing and Clustering using Hierarchies):
+### BIRCH (Balanced Iterative Reducing and Clustering using Hierarchies):
 
 Applied for large datasets to efficiently identify clusters with a hierarchical structure.
 
-DBSCAN (Density-Based Spatial Clustering of Applications with Noise):
+### DBSCAN (Density-Based Spatial Clustering of Applications with Noise):
 
 Identified clusters based on density, effectively handling noise and outliers.
 
-OPTICS (Ordering Points To Identify the Clustering Structure):
+### OPTICS (Ordering Points To Identify the Clustering Structure):
 
 Captured clusters of varying densities and maintained cluster hierarchy.
 
-Results and Insights
+## Results and Insights
 Customer Segments: Identified distinct customer segments with unique characteristics and behaviors.
 
 Targeted Marketing: Provided insights into which customer groups are more responsive to specific marketing campaigns.
