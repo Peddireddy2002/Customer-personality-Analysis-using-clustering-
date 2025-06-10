@@ -15,7 +15,7 @@ Purchasing Behavior: Amount spent on various product categories (e.g., wine, fru
 Marketing Interaction: Number of purchases made with a discount, and responses to five different marketing campaigns.
 
 ## Data Preprocessing
-Handling Missing Values: Addressed missing data through appropriate imputation or removal strategies.
+### Handling Missing Values: Addressed missing data through appropriate imputation or removal strategies.
 
 Feature Engineering: Created new features such as 'Days_As_Customer' to represent the duration of customer relationships.
 
