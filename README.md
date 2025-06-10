@@ -5,6 +5,7 @@ This project focuses on segmenting customers into distinct groups based on their
 ---
 
 ## 📊 Dataset
+Data: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
 The dataset used is sourced from **Kaggle** and includes detailed information about customer demographics, purchasing habits, and marketing campaign responses.
 
